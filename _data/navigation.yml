@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "成果（Achievements）"
     url: /publications/
 
-  - title: "Talks"
+  - title: "项目（Projects）"
     url: /talks/    
 
   - title: "Teaching"
